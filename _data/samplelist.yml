@@ -2,9 +2,9 @@ docs_list_title: Ski Rando Documentation
 docs:
 
 - title: Préparation
-  url: pag2.html
+  url: pag2e.html
 
-- title: Configuration
+- title: Entraînement
   url: page3.html
 
 - title: Deployment
