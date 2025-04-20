@@ -1,9 +1,5 @@
 # Be Fit !
 
-<object data="https://bop.github.io/Syrah/prep.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://bop.github.io/Syrah/prep.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://bop.github.io/Syrah/prep.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="prep.pdf" width="100%" height="500" frameborder="0" />
 
 [home](./) - [2](./page2.md) 
