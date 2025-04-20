@@ -1,5 +1,4 @@
 # Be Fit !
-![prepare](prep.pdf)
 
 <object data="http://https://bop.github.io/Syrah/prep.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf](https://bop.github.io/Syrah/prep.pdf">
