@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Réduction
+![avalanche](avl.png)
 
 ## Welcome to another page
 
