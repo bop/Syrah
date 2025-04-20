@@ -7,5 +7,3 @@ Wine and Dine
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
-
-[2](./page2.md) - [3](./page3.md)
