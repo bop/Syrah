@@ -9,6 +9,7 @@ layout: default
 - endeavorOs
 - niri
 
+---
   > Citation de mes paroles quand le silence est d'or
 
 [back](./)
