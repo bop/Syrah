@@ -1,6 +1,5 @@
 # Syrah
 Wine and Dine
-![avalanche](avl.png)
 
 ## Red red
 It seems just like a dream
