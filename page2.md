@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Réduction
+# Préparation
 ![avalanche](avl.png)
 
 ---
