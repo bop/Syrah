@@ -1,11 +1,11 @@
-docs_list_title: ACME Documentation
+docs_list_title: Ski Rando Documentation
 docs:
 
-- title: Introduction
-  url: introduction.html
+- title: Préparation
+  url: pag2.html
 
 - title: Configuration
-  url: configuration.html
+  url: page3.html
 
 - title: Deployment
   url: deployment.html
