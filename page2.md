@@ -4,6 +4,13 @@ layout: default
 # Réduction
 ![avalanche](avl.png)
 
+---
+![avril](26avril.png)
+
+---
+![avril](13mai.png)
+
+---
 ## Welcome to another page
 
 - _yay_
