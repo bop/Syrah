@@ -8,4 +8,4 @@ layout: default
 
 ---
 
-[home](./) - [2](./page2.md)  - [3](./page3.md) 
+[Ski Bar](./) - [2](./page2.md)  - [4](./page4.md) 
