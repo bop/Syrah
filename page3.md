@@ -3,7 +3,7 @@ layout: default
 ---
 # Be Fit !
 
-![equipment](equip.png)
+[équipement](![equipment](equip.png))
 
 ---
 

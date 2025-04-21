@@ -13,10 +13,12 @@ s’agit d’évaluer les trois facteurs conditions, terrain et facteur humain.
 ---
 ![avril](26avril.png)
 
+Solalex
 ---
-![avril](13mai.png)
+![mai](13mai.png)
 
+Diablerets
 ---
-  > Citation de mes paroles quand le silence est d'or
+  > Dehors : Citation de mes paroles : mais le silence est d'or
 
 [back](./)
