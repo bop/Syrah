@@ -7,4 +7,6 @@ layout: default
 
 ---
 
-[home](./) - [2](./page2.md) - [3](./page3.md)
+![xnc 10](xn1.png)
+Fixation low tech Fritschi :
+[Xenic 10](./) 
