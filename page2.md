@@ -11,13 +11,13 @@ s’agit d’évaluer les trois facteurs conditions, terrain et facteur humain.
 ![avalanche](avl.png)
 
 ---
+### Solalex
 ![avril](26avril.png)
 
-Solalex
 ---
+### Diablerets
 ![mai](13mai.png)
 
-Diablerets
 ---
   > Dehors : Citation de mes paroles : mais le silence est d'or
 
