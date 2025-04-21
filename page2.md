@@ -20,5 +20,3 @@ s’agit d’évaluer les trois facteurs conditions, terrain et facteur humain.
 
 ---
   > Dehors : Citation de mes paroles : mais le silence est d'or
-
-[back](./)
