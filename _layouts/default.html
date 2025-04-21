@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=720">
+    <meta name="viewport" content="width=640">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="only screen and (max-width:640px)">
@@ -14,13 +14,12 @@
     <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
     <script>
       $(document).ready(function () {
-        $('#main_content').headsmart()
+          $('#main_content').headsmart()
       })
     </script>
 
-{% seo %}
+    {% seo %}
 
-{% include head-custom.html %}
   </head>
 
   <body>
@@ -39,16 +38,16 @@
       </header>
 
       {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
+      <section id="downloads">
+        <span class="inner">
+          <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+        </span>
+      </section>
       {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
+      <div id="no-downloads">
+        <span class="inner">
+        </span>
+      </div>
       {% endif %}
 
 
@@ -63,11 +62,12 @@
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             {% if site.github.is_project_page %}
-              <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+            <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
             {% endif %}
             {% if site.github.is_user_page %}
-              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+            <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
             {% endif %}
+	    {% include head-custom.html %}
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
