@@ -1,2 +1,2 @@
 # Syrah
-Wine and Dine
+Wine and Dine.
