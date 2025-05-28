@@ -3,9 +3,9 @@ layout: default
 ---
 # Be Fit !
 
+![prépar](/img/prep4.png)
 ![prépar](prep1.png)
 ![prépar](prep2.png)
-![prépar](/img/prep4.png)
 ![prépar](/img/prep5.png)
 ![prépar](/img/prep6.png)
 ![prépar](/img/prep7.png)
