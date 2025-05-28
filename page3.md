@@ -5,10 +5,6 @@ layout: default
 
 ![prépar](prep1.png)
 ![prépar](prep2.png)
-![prépar](/img/prep0.png)
-![prépar](/img/prep21.png)
-![prépar](/img/prep20.png)
-![prépar](/img/prep3.png)
 ![prépar](/img/prep4.png)
 ![prépar](/img/prep5.png)
 ![prépar](/img/prep6.png)
